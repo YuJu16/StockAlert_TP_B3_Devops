@@ -1,5 +1,7 @@
 # StockAlert API
 
+![CI/CD StockAlert](https://github.com/YuJu16/StockAlert_TP_B3_Devops/actions/workflows/ci.yml/badge.svg)
+
 API de gestion d'alertes de stock pour une boutique en ligne.
 Une alerte est automatiquement créée quand le stock d'un produit passe sous son seuil.
 
